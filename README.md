@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlqaGt2azMzNDYwdjBsamU4c2RpMWNlcmozN3hzOGhpNWJ0aDBkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 </div>
 <p align="center">
-  <a href="www.linkedin.com/in/prashant70" target="_blank">
+  <a href="www.linkedin.com/prashant70" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/your-username](https://leetcode.com/u/prashant70/" target="_blank">
+  <a href="https://leetcode.com/u/prashant70/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
