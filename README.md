@@ -14,6 +14,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashant-ml&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile View Counter" />
+</p>
 
 # About Me
 Hii there everyone 👋, This is Prashant currently studying at University College Cork, as Mathematical Modelling and Machine Learning Masters Student.
