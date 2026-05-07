@@ -18,10 +18,17 @@
   <img src="https://komarev.com/ghpvc/?username=prashant-ml&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile View Counter" />
 </p>
 
+---
+
 # About Me
-Hii there everyone 👋, This is Prashant currently studying at University College Cork, as Mathematical Modelling and Machine Learning Masters Student.
+Hii there everyone 👋, This is Prashant currently studying at University College Cork, as Mathematical Modelling and Machine Learning Masters Student. I am enthusiastic and passionate about learning new skills.
 
-
+## :hammer_and_wrench:Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,docker,git,github,cpp,julia"/>
+  </a>
+</p>
 <!--
 **HotPolarbear/HotPolarbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
